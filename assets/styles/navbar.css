@@ -2,11 +2,12 @@
 nav {
   display: flex;
   border: 1px solid;
+  justify-content: ;
 }
 
 .section {
   display: flex;
-  align-items: ;
+  align-items: center;
 }
 
 .svg {
