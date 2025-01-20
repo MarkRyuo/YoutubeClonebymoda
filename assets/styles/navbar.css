@@ -1,9 +1,12 @@
 
 nav {
   display: flex;
+  border: 1px solid;
 }
 
-
+.section {
+  flex: ;
+}
 
 .svg {
   width: 50px;
