@@ -2,7 +2,7 @@
 nav {
   display: flex;
   border: 1px solid;
-  justify-content: ;
+  justify-content: space-between;
 }
 
 .section {
