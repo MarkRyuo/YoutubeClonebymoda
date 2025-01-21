@@ -52,6 +52,11 @@ nav {
   min-width: 100px;
 }
 
+.mic-button {
+  border: 1;
+  border-top-right-radius: 15px;
+}
+
 .search-bar::placeholder {
   font-size: 1.2rem;
 }
