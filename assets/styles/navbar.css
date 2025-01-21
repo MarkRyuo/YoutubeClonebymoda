@@ -63,7 +63,7 @@ nav {
 
 .notif-count {
   position: absolute;
-  top: -1;
+  top: 0;
   right: 10px;
   background-color: #ff0000;
   padding: 5px;
