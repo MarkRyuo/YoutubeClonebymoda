@@ -66,4 +66,7 @@ nav {
   top: 0;
   right: 10px;
   background-color: #ff0000;
+  padding: 5px;
+  border-radius: 50px;
+  color: #fff;
 }
