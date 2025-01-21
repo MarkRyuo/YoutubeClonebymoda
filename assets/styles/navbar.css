@@ -18,6 +18,10 @@ nav {
 
 }
 
+.yt-logo {
+  width: 100px;
+}
+
 .middle-section {
   flex: 1;
   justify-content: center;
