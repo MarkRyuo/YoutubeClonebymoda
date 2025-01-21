@@ -9,7 +9,6 @@ nav {
   display: flex;
   align-items: center;
   border: 1px solid ;
-  flex: 1;
 }
 
 .svg {
@@ -19,5 +18,6 @@ nav {
 }
 
 .middle-section {
+  flex: 1;
   justify-content: center;
 }
