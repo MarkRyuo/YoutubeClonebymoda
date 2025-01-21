@@ -24,7 +24,7 @@ nav {
 }
 
 .yt-logo {
-  width: 135px;
+  width: 130px;
 }
 
 .yt-profile {
@@ -40,4 +40,9 @@ nav {
 .right-section {
   justify-content: end;
   
+}
+
+
+.search-bar {
+  wid
 }
