@@ -46,5 +46,6 @@ nav {
 .search-bar {
   padding: 10px;
   border-radius: 15px;
-  width: ;
+  width: 100%;
+  max-width: 100px;
 }
