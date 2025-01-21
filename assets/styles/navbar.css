@@ -55,7 +55,7 @@ nav {
 .search-button {
   border: 1px solid;
   border-top-right-radius: 15px;
-  border-bottom-right-radius: ;
+  border-bottom-right-radius: 15px;
 }
 
 .search-bar::placeholder {
