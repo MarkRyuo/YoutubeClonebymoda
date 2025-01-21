@@ -2,6 +2,7 @@
 
 aside {
   width: 100px;
+  height: 100%;
   border: 1px solid;
   height: 500px;
 }
