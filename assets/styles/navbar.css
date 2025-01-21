@@ -53,7 +53,7 @@ nav {
 }
 
 .search-button {
-  border: 1px solid;
+  background-color: #dbdbdb;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
 }
