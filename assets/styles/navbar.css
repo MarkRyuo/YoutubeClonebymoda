@@ -18,9 +18,13 @@ nav {
 
 }
 
+.button {
+  border: none;
+}
+
 .yt-logo {
   width: 150px;
-  margin-left: ;
+  margin-left: 10px;
 }
 
 .middle-section {
