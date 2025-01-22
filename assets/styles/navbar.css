@@ -24,6 +24,10 @@ nav {
   background-color: inherit;
 }
 
+.svg-youtube-logo {
+  position: relative;
+}
+
 
 .yt-profile {
   width: 50px;
