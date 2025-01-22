@@ -29,7 +29,9 @@ nav {
 }
 
 .txt-country {
-  position: ;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 
