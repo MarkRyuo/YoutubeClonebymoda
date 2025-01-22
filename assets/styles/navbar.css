@@ -33,6 +33,11 @@ nav {
   background-color: #d8d8d8;
 }
 
+.tool-tip {
+  position: absolute;
+  opacity: ;
+}
+
 .middle-section {
   flex: 1;
   justify-content: center;
