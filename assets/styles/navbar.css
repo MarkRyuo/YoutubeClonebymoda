@@ -40,7 +40,10 @@ nav {
 
 .svg-burger-icon {
   width: 25px;
-  border: 1px solid;
+}
+
+.svg-burger-icon:hover {
+  border-radius: ;
 }
 
 .svg-youtube-logo {
