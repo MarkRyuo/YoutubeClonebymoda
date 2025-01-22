@@ -31,9 +31,7 @@ nav {
   position: absolute;
   bottom: -10;
   padding: 5px 10px;
-  background-color: #000000;
-  border: 1px solid;
-  color: #fff;
+  opacity: ;
 
 }
 
@@ -43,6 +41,9 @@ nav {
   background-color: #d8d8d8;
 }
 
+.tool-tip:hover {
+
+}
 
 
 .middle-section {
