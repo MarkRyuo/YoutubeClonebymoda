@@ -26,6 +26,8 @@ nav {
 
 .svg-youtube-logo {
   position: relative;
+  border: 1px solid;
+  width: 120px;
 }
 
 .txt-country {
