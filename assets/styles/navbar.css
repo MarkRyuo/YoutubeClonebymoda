@@ -42,7 +42,7 @@ nav {
   opacity: 1;
 }
 
-.tool-tip:hover {
+.button:hover .tool-tip {
   opacity: 1;
   background-color: #353535;
   color: #ffffff;
