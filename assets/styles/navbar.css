@@ -30,7 +30,7 @@ nav {
 .tool-tip {
   position: absolute;
   bottom: -10;
-  padding: 10px;
+  padding: 5px;
   background-color: #000000;
   border: 1px solid;
   color: #fff;
