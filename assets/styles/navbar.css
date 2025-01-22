@@ -22,7 +22,10 @@ nav {
 .button {
   border: none;
   background-color: inherit;
-  margin: 0px;
+}
+.button:hover {
+  border-radius: 50px;
+  background-color: #d8d8d8;
 }
 
 
@@ -41,10 +44,6 @@ nav {
   width: 25px;
 }
 
-.button:hover {
-  border-radius: 50px;
-  background-color: #d8d8d8;
-}
 
 .svg-youtube-logo {
   position: relative;
