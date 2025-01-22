@@ -31,7 +31,7 @@ nav {
   position: absolute;
   bottom: -10;
   padding: 5px 10px;
-  opacity: ;
+  opacity: 0;
 
 }
 
@@ -42,7 +42,10 @@ nav {
 }
 
 .tool-tip:hover {
-
+  opacity: 1;
+  background-color: #000000;
+  border: 1px solid;
+  color: #fff;
 }
 
 
