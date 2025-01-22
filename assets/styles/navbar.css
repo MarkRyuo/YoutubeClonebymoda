@@ -26,6 +26,17 @@ nav {
   background-color: inherit;
 }
 
+.middle-section {
+  flex: 1;
+  justify-content: center;
+}
+
+.right-section {
+  justify-content: end;
+  
+}
+
+
 .svg-youtube-logo {
   position: relative;
   width: 100px;
@@ -50,15 +61,6 @@ nav {
   border-radius: 50px;
 }
 
-.middle-section {
-  flex: 1;
-  justify-content: center;
-}
-
-.right-section {
-  justify-content: end;
-  
-}
 
 .search-bar {
   padding: 12px;
