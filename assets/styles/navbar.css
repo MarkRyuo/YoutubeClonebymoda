@@ -33,8 +33,8 @@ nav {
 
 .txt-country {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 5px;
+  right: px;
   font-size: 0.7rem;
   font-weight: 400;
 }
