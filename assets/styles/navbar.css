@@ -16,6 +16,7 @@ nav {
 .svg {
   width: 35px;
   margin-right: 10px;
+  padding: 10px;
   /** Sets the width of the SVG element to 50 pixels.*/
 
 }
@@ -38,7 +39,6 @@ nav {
   font-size: 0.7rem;
   font-weight: 400;
 }
-
 
 .yt-profile {
   width: 50px;
