@@ -37,6 +37,10 @@ nav {
 }
 
 
+.svg-burger-icon {
+  width: 25px;
+}
+
 .svg-youtube-logo {
   position: relative;
   width: 100px;
@@ -51,9 +55,7 @@ nav {
   font-weight: 400;
 }
 
-.svg-burger-icon {
-  width: 25px;
-}
+
 
 
 .yt-profile {
