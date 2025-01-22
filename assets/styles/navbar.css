@@ -3,6 +3,7 @@ nav {
   display: flex;
   justify-content: space-between;
   padding: 10px;
+  border: 1px solid;
 }
 
 .section {
@@ -28,7 +29,7 @@ nav {
   position: relative;
   border: 1px solid;
   width: 120px;
-  padding-top: 10px;
+  padding-top: 15px;
 }
 
 .txt-country {
