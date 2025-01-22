@@ -46,7 +46,7 @@ nav {
 
 /**
  * Applies a hover style to the `.tool-tip` element when the parent `.button` element is hovered over.
- * When the `.button` is hovered, the `.tool-tip` element becomes visible with */
+ * When the `.button` is hovered, the `.tool-tip` element becomes visible*/
 .button:hover .tool-tip {
   opacity: 1;
 }
