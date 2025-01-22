@@ -37,8 +37,9 @@ nav {
   position: absolute;
   top: 100%;
   bottom: 0;
+  background-color: #000000;
+  color: #fff;
 
-  
 }
 
 .middle-section {
