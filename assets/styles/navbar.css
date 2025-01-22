@@ -15,7 +15,6 @@ nav {
 
 .svg {
   width: 35px;
-  margin-right: 5px;
   padding: 5px;
   /** Sets the width of the SVG element to 50 pixels.*/
 
@@ -24,6 +23,9 @@ nav {
 .button {
   border: none;
   background-color: inherit;
+  align-items: center;
+  border: 1px solid;
+  margin: 0px;
 }
 
 
@@ -43,7 +45,8 @@ nav {
 }
 
 .svg-burger-icon:hover {
-  border-radius: ;
+  border-radius: 50px;
+  background-color: #d8d8d8;
 }
 
 .svg-youtube-logo {
