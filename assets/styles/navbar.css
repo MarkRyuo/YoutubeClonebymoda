@@ -43,9 +43,8 @@ nav {
 
 .tool-tip:hover {
   opacity: 1;
-  background-color: #000000;
-  border: 1px solid;
-  color: #fff;
+  background-color: #353535;
+  color: #ffffff;
 }
 
 
