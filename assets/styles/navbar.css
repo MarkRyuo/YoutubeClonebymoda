@@ -23,6 +23,7 @@ nav {
   border: none;
   background-color: inherit;
 }
+/**Applies a hover style to the `.button` class, including a 50px border radius and a light gray background color (`#d8d8d8`). This provides visual feedback to the user when hovering over the button. */
 .button:hover {
   border-radius: 50px;
   background-color: #d8d8d8;
