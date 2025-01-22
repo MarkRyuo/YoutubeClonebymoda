@@ -6,8 +6,8 @@ nav {
   padding: 0px 10px;
 }
 
-input[type=text] {
-  border-color: none;
+input[type=text]:focus {
+  outline: none;
 }
 
 
