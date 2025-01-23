@@ -92,7 +92,9 @@ input[type=text]:focus {
 
 
 .search-bar {
-  padding: 12px;
+  padding: 13px;
+  border-top-left-radius: 10px;
+  borde
   /* box-shadow: inset 1px 1px 2px #6d6d6d; */
   width: 100%;
   max-width: 500px;
@@ -104,8 +106,7 @@ input[type=text]:focus {
 }
 
 .search-button {
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
+  border: 1px solid;
   padding: 0px 10px;
   background-color: #f0f0f0;
 }
