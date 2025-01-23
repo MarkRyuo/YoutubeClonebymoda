@@ -10,6 +10,10 @@ input[type=text]:focus {
   outline: none;
 }
 
+input[type=text] {
+  border: ;
+}
+
 
 .section {
   display: flex;
@@ -108,7 +112,7 @@ input[type=text]:focus {
   border: 1px solid;
   padding: 0px 10px;
   border-top-right-radius: 10px;
-  border
+  border-bottom-right-radius: 10px;
   background-color: #f0f0f0;
 }
 
