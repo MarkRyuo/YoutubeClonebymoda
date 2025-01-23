@@ -12,7 +12,6 @@ input[type=text]:focus {
 
 input[type=text] {
   border: 1px solid #9b9b9b ;
-  font-size: 1.1rem;
 }
 
 .section {
@@ -109,7 +108,7 @@ input[type=text] {
 }
 
 .search-button {
-  border: 1px solid;
+  border: 1px solid #9b9b9b;
   padding: 0px 10px;
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
