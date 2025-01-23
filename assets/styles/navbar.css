@@ -116,7 +116,9 @@ input[type=text] {
 }
 
 .search-button:hover {
-  
+  border-radius: 0px;
+  border-top-right-radius: 10px;
+  borde
 }
 
 
