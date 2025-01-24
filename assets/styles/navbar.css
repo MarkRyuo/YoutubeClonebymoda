@@ -1,8 +1,15 @@
 
 nav {
+  margin: 10px;
   border: 1px solid ;
   display: flex;
   justify-content: space-between;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  border: 1px solid;
 }
 
 .nav-svg {
