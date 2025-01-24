@@ -1,139 +1,22 @@
 
-/*! Important double  */
 nav {
+  margin: 10px;
+  border: 1px solid ;
   display: flex;
   justify-content: space-between;
-  padding: 0px 10px;
 }
 
-input[type=text]:focus {
-  outline: none;
-}
-
-input[type=text] {
-  border: 1px solid #9b9b9b ;
-}
-
-.section {
+.nav-container {
   display: flex;
   align-items: center;
-  width: 500px;
+  border: 1px solid;
 }
 
-.svg {
-  width: 35px; /** Sets the width of the SVG element to 35 pixels.*/
-  padding: 5px;
+.nav-svg {
+  width: 30px;
 }
 
-.button {
-  border: none;
-  background-color: inherit;
-  position: relative;
-  transition: background-color 0.15s, 
-  border-radius 0.15s;
-}
-
-.tool-tip {
-  position: absolute;
-  bottom: -30px;
-  padding: 5px 10px;
-  opacity: 0;
-  background-color: #353535;
-  color: #ffffff;
-
-}
-
-/**Applies a hover style to the `.button` class, including a 50px border radius and a light gray background color (`#d8d8d8`). This provides visual feedback to the user when hovering over the button. */
-
-.button:hover {
-  border-radius: 50px;
-  background-color: #d8d8d8;
-  opacity: 1;
-}
-
-/** Applies a hover style to the `.tool-tip` element when the parent `.button` element is hovered over. When the `.button` is hovered, the `.tool-tip` element becomes visible*/
-
-.button:hover .tool-tip {
-  opacity: 1;
-}
-
-.middle-section {
-  flex: 1;
-  justify-content: center;
-}
-
-.right-section {
-  justify-content: end;
-  
-}
-
-
-.svg-burger-icon {
-  width: 25px;
-}
-
-
-.svg-youtube-logo {
-  position: relative;
-  width: 100px;
-  padding: 15px;
-}
-
-.txt-country {
-  position: absolute;
-  top: 8px;
-  right: 1px;
-  font-size: 0.7rem;
-  font-weight: 400;
-}
-
-
-.yt-profile {
-  width: 50px;
+.nav-profile-image {
+  width: 60px;
   border-radius: 50px;
 }
-
-
-.search-bar {
-  padding: 13px;
-  border-top-left-radius: 10px;
-  border-bottom-left-radius: 10px;
-  width: 100%;
-  max-width: 500px;
-  min-width: 100px;
-}
-
-.search-bar::placeholder {
-  font-size: 1.2rem;
-}
-
-.search-button {
-  border: 1px solid #9b9b9b;
-  padding: 0px 10px;
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
-  background-color: #f0f0f0;
-}
-
-.search-button:hover {
-  border-radius: 0px;
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
-}
-
-
-.notif-button {
-  position: relative;
-}
-
-.notif-count {
-  position: absolute;
-  top: 0;
-  right: 10px;
-  background-color: #ff0000;
-  padding: 5px;
-  border-radius: 50px;
-  color: #fff;
-}
-
-
