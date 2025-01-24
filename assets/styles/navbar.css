@@ -3,3 +3,7 @@ nav {
   border: 1px solid ;
   display: flex;
 }
+
+.nav-svg {
+  width: 30px;
+}
