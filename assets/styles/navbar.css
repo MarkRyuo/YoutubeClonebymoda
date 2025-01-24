@@ -2,8 +2,14 @@
 nav {
   border: 1px solid ;
   display: flex;
+  justify-content: space-between;
 }
 
 .nav-svg {
   width: 30px;
+}
+
+.nav-profile-image {
+  width: 60px;
+  border-radius: 50px;
 }
