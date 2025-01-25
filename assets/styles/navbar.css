@@ -4,6 +4,8 @@ nav {
   border: 1px solid ;
   display: flex;
   justify-content: space-between;
+  position: fixed;
+  z-index: 1000;
 }
 
 .nav-container {
