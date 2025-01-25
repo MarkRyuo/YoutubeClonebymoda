@@ -36,5 +36,5 @@
 
 .nav-search-button {
   border-radius: 0px 10px 10px 0px;
-  border: 1px solid ;
+  box: inset 1px solid #5e5e5e;
 }
