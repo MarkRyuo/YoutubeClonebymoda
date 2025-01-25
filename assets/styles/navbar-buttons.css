@@ -1,11 +1,11 @@
 
 :root {
-  --nav-button-color: #fff
+  --nav-button-color: #fff ;
 }
 
 
 .nav-button {
   border: none;
   padding: 5px;
-  background-color: var(--nav-button-color);
+  background-color: var(nav;
 }
