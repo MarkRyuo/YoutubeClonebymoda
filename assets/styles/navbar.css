@@ -47,6 +47,6 @@ nav {
 .nav-location-indicator {
   position: absolute;
   top: 0;
-  right: inherit;
+  right: 10px;
 
 }
