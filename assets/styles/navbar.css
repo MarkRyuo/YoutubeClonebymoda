@@ -39,8 +39,9 @@ nav {
   border-radius: 10px 0px 0px 10px; /** Top -> right -> bottom -> left */
 }
 
-.nav-searchbar-input:[type="text"]:focus {
-  border: 1px solid;
+/** Removes the default outline style when the `.nav-searchbar-input` element with `type="text"` is focused. This helps create a clean, minimalist appearance for the search input. */
+.nav-searchbar-input[type="text"]:focus {
+  outline: none;
 }
 
 
