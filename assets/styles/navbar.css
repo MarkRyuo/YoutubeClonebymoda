@@ -46,12 +46,6 @@ nav {
   outline: none;
 }
 
-.nav-span-plus-sign {
-  font-size: 1.3rem;
-  font-weight: 300;
-}
-
-
 
 
 .nav-right-container {
@@ -60,6 +54,11 @@ nav {
 
 .nav-create-button {
   font-size: 1rem;  
+}
+
+.nav-span-plus-sign {
+  font-size: 1.3rem;
+  font-weight: 300;
 }
 
 .nav-ytlogo-container {
