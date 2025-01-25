@@ -14,7 +14,7 @@ nav {
 }
 
 .nav-svg {
-  width: 30px;
+  width: 30px; /** Sets the width of the SVG element to 30 pixels. */
 }
 
 .nav-wrapper {
