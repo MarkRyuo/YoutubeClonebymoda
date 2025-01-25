@@ -1,6 +1,7 @@
 
 :root {
   --nav-button-color: #fff ;
+  --nav-button-hover-color: #c4c4c4 ;
 }
 
 
@@ -18,6 +19,11 @@
   color: #fff;
   padding: 5px;
   opacity: 0;
+}
+
+
+.nav-button:hover {
+  background-color: var();
 }
 
 
