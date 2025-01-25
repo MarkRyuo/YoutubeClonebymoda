@@ -69,7 +69,8 @@ nav {
 }
 
 .nav-create-button {
-  font-size: 1rem;  
+  font-size: 1rem;
+  width: 100px;  
 }
 
 .nav-span-plus-sign {
