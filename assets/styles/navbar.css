@@ -27,6 +27,22 @@ nav {
 }
 
 
+.nav-ytlogo-container {
+  padding: 10px;
+  position: relative;
+}
+
+.nav-location-indicator {
+  position: absolute;
+  top: 5px;
+  right: -10px;
+  font-size: 0.7rem;
+  font-weight: 300;
+}
+
+
+
+
 .nav-middle-container {
   flex: 1;
   justify-content: center;
@@ -58,19 +74,6 @@ nav {
 
 .nav-span-plus-sign {
   font-size: 1.3rem;
-  font-weight: 300;
-}
-
-.nav-ytlogo-container {
-  padding: 10px;
-  position: relative;
-}
-
-.nav-location-indicator {
-  position: absolute;
-  top: 5px;
-  right: -10px;
-  font-size: 0.7rem;
   font-weight: 300;
 }
 
