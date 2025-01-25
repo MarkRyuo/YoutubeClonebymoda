@@ -7,5 +7,5 @@
 .nav-button {
   border: none;
   padding: 5px;
-  background-color: inherit;
+  background-color: var(--nav-button-color);
 }
