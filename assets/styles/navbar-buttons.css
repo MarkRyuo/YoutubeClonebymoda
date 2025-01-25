@@ -3,5 +3,6 @@
 .nav-button {
   border: none;
   padding: 5px;
-  background-color: ;
+  background-color: inherit;
+  
 }
