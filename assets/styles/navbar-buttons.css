@@ -33,3 +33,9 @@
   opacity: 1;
   transition: opacity 0.15s;
 }
+
+.nav-search-button {
+  border-radius: 0px 10px 10px 0px;
+  border: 1px solid ;
+  padding: ;
+}
