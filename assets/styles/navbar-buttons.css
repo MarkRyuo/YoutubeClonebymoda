@@ -13,5 +13,8 @@
 
 .nav-tool-tip {
   position: absolute;
-  bottom: -10px;
+  bottom: -15px;
+  background-color: #929292;
+  color: #fff;
+  padding: ;
 }
