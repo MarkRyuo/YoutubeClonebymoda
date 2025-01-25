@@ -24,5 +24,5 @@
 /** When the `.nav-button` element is hovered over, this rule sets the `opacity` property of the `.nav-tool-tip` element to `1`, making it visible. This provides a tooltip-like behavior for the navigation button. */
 .nav-button:hover .nav-tool-tip {
   opacity: 1;
-  background-color: red;
+  transition: opacity 0.5s;
 }
