@@ -7,13 +7,13 @@
     <link rel="stylesheet" href="/assets/styles/navbar.css" />
     <link rel="stylesheet" href="./assets/styles/navbar-buttons.css">
     <link rel="stylesheet" href="/assets/styles/sidebar.css" />
-    <title>ClipSet.com</title>
+    <title>Youtube.com</title>
   </head>
   <body>
     <nav>
 
       <div class="nav-container nav-left-container">
-        <button type="button" class="nav-button nav-burger-button">
+        <button type="button" class="nav-button nav-burger-button nav-wrapper">
           <div class="nav-svg svg-burger-container">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -31,6 +31,9 @@
             >
               <path d="M21 6H3V5h18v1zm0 5H3v1h18v-1zm0 6H3v1h18v-1z"></path>
             </svg>
+          </div>
+          <div class="nav-tool-tip">
+            Menu
           </div>
         </button>
         <div class="nav-ytlogo-container">
@@ -80,32 +83,44 @@
               ></path>
             </g>
           </svg>
+          <div class="nav-location-indicator">
+            PH
+          </div>
         </div>
       </div>
 
       <div class="nav-container nav-middle-container">
         <input type="text" placeholder="Search" class="nav-searchbar-input" />
-        <button type="button" class="nav-button nav-search-button">
+        <button type="button" class="nav-button nav-search-button nav-wrapper">
           <div class="nav-svg svg-search-container">
             <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" height="24" viewBox="0 0 24 24" width="24" focusable="false" aria-hidden="true" style="pointer-events: none; display: inherit; width: 100%; height: 100%;"><path clip-rule="evenodd" d="M16.296 16.996a8 8 0 11.707-.708l3.909 3.91-.707.707-3.909-3.909zM18 11a7 7 0 00-14 0 7 7 0 1014 0z" fill-rule="evenodd"></path></svg>
+          </div>
+          <div class="nav-tool-tip">
+            Search
           </div>
         </button>
         <button type="button" class="nav-button nav-mic-button">
           <div class="nav-svg svg-mic-container">
-            <svg fill="#000000" width="24" height="24" viewBox="0 0 1920 1920" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M425.818 709.983V943.41c0 293.551 238.946 532.497 532.497 532.497 293.55 0 532.496-238.946 532.496-532.497V709.983h96.818V943.41c0 330.707-256.438 602.668-580.9 627.471l-.006 252.301h242.044V1920H667.862v-96.818h242.043l-.004-252.3C585.438 1546.077 329 1274.116 329 943.41V709.983h96.818ZM958.315 0c240.204 0 435.679 195.475 435.679 435.68v484.087c0 240.205-195.475 435.68-435.68 435.68-240.204 0-435.679-195.475-435.679-435.68V435.68C522.635 195.475 718.11 0 958.315 0Z" fill-rule="evenodd"></path> </g></svg>
+            <svg fill="currentColor" width="24" height="24" viewBox="0 0 1920 1920" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M425.818 709.983V943.41c0 293.551 238.946 532.497 532.497 532.497 293.55 0 532.496-238.946 532.496-532.497V709.983h96.818V943.41c0 330.707-256.438 602.668-580.9 627.471l-.006 252.301h242.044V1920H667.862v-96.818h242.043l-.004-252.3C585.438 1546.077 329 1274.116 329 943.41V709.983h96.818ZM958.315 0c240.204 0 435.679 195.475 435.679 435.68v484.087c0 240.205-195.475 435.68-435.68 435.68-240.204 0-435.679-195.475-435.679-435.68V435.68C522.635 195.475 718.11 0 958.315 0Z" fill-rule="evenodd"></path> </g></svg>
+          </div>
+          <div class="nav-tool-tip tool-tip-mic">
+            Search with your voice
           </div>
         </button>
       </div>
 
       <div class="nav-container nav-right-container">
-        <button type="button" class="nav-button nav-create-button">
-          <span>&#43;</span>
+        <button type="button" class="nav-button nav-create-button nav-wrapper">
+          <span class="nav-span-plus-sign">&#43;</span>
           Create
         </button>
 
-        <button type="button" class="nav-button nav-notification-button">
+        <button type="button" class="nav-button nav-notification-button nav-wrapper">
           <div class="nav-svg nav-notification-svg">
             <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" height="24" viewBox="0 0 24 24" width="24" focusable="false" aria-hidden="true" style="pointer-events: none; display: inherit; width: 100%; height: 100%;"><path clip-rule="evenodd" d="m13.497 4.898.053.8.694.4C15.596 6.878 16.5 8.334 16.5 10v2.892c0 .997.27 1.975.784 2.83L18.35 17.5H5.649l1.067-1.778c.513-.855.784-1.833.784-2.83V10c0-1.666.904-3.122 2.256-3.902l.694-.4.053-.8c.052-.78.703-1.398 1.497-1.398.794 0 1.445.618 1.497 1.398ZM6 10c0-2.224 1.21-4.165 3.007-5.201C9.11 3.236 10.41 2 12 2c1.59 0 2.89 1.236 2.993 2.799C16.79 5.835 18 7.776 18 10v2.892c0 .725.197 1.436.57 2.058l1.521 2.535c.4.667-.08 1.515-.857 1.515H15c0 .796-.316 1.559-.879 2.121-.562.563-1.325.879-2.121.879s-1.559-.316-2.121-.879C9.316 20.56 9 19.796 9 19H4.766c-.777 0-1.257-.848-.857-1.515L5.43 14.95c.373-.622.57-1.333.57-2.058V10Zm4.5 9c0 .398.158.78.44 1.06.28.282.662.44 1.06.44s.78-.158 1.06-.44c.282-.28.44-.662.44-1.06h-3Z" fill-rule="evenodd"></path></svg>
+          </div>
+          <div class="nav-tool-tip">
+            notification
           </div>
         </button>
 

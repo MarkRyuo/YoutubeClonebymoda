@@ -1,0 +1,51 @@
+
+:root {
+  --nav-button-color: #fff ;
+  --nav-button-hover-color: #e4e4e4 ;
+}
+
+
+.nav-button {
+  border: none;
+  padding: 7px;
+  background-color: var(--nav-button-color);
+  position: relative;
+  transition: baclground-color 0.15s;
+}
+
+.nav-tool-tip {
+  position: absolute;
+  bottom: -30px;
+  background-color: #a5a5a5;
+  color: #fff;
+  padding: 5px;
+  opacity: 0;
+
+}
+
+.tool-tip-mic {
+  width: 130px;
+}
+
+
+.nav-button:hover {
+  background-color: var(--nav-button-hover-color);
+  border-radius: 50px;
+}
+
+
+/** When the `.nav-button` element is hovered over, this rule sets the `opacity` property of the `.nav-tool-tip` element to `1`, making it visible. This provides a tooltip-like behavior for the navigation button. */
+.nav-button:hover .nav-tool-tip {
+  opacity: 1;
+  transition: opacity 0.15s;
+}
+
+.nav-search-button {
+  border-radius: 0px 10px 10px 0px;
+  box-shadow: inset 1px 1px 1px #8d8d8d;
+}
+
+.nav-search-button:hover {
+  background-color: var(--nav-button-hover-color);
+  border-radius: 0px 10px 10px 0px;
+}
