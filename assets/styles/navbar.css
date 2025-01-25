@@ -10,6 +10,7 @@ nav {
   display: flex;
   align-items: center;
   border: 1px solid;
+  width: 400px;
 }
 
 .nav-svg {
