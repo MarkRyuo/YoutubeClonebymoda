@@ -47,7 +47,7 @@ nav {
 .nav-location-indicator {
   position: absolute;
   top: 5px;
-  right: -px;
+  right: -10px;
   font-size: 0.7rem;
   font-weight: 300;
 }
