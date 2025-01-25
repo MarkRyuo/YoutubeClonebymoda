@@ -1,8 +1,11 @@
 
+:root {
+  --nav-button-color: #fff
+}
+
 
 .nav-button {
   border: none;
   padding: 5px;
   background-color: inherit;
-  
 }
