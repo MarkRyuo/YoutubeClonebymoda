@@ -53,4 +53,9 @@ nav {
 }
 
 
-/*?  SVG  */
+/*?  SVG SIZING */
+
+.svg-burger-container {
+  border: 1px solid;
+  width: ;
+}
