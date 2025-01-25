@@ -24,7 +24,7 @@
 
 .nav-button:hover {
   background-color: var(--nav-button-hover-color);
-  border-radius: ;
+  border-radius: 50px;
 }
 
 
