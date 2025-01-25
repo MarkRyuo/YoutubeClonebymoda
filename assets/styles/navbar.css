@@ -37,7 +37,7 @@ nav {
   font-size: 1rem;
   padding: 10px;
   border: none;
-  /* box-shadow: inset 1px 1px 1px #8d8d8d; */
+  box-shadow: inset 1px 1px 1px #8d8d8d;
   border-radius: 10px 0px 0px 10px; /** Top -> right -> bottom -> left */
 }
 
