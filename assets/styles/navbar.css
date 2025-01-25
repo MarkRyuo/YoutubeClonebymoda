@@ -46,7 +46,10 @@ nav {
   outline: none;
 }
 
-.nav-span-plus
+.nav-span-plus-sign {
+  font-size: 1.3rem;
+  font-weight: 500;
+}
 
 
 
