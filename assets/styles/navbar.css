@@ -66,6 +66,10 @@ nav {
   outline: none;
 }
 
+.nav-search-button {
+  width: 100px;
+}
+
 
 
 .nav-right-container {
