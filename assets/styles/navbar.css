@@ -39,6 +39,10 @@ nav {
   border-radius: 10px 0px 0px 10px; /** Top -> right -> bottom -> left */
 }
 
+.nav-searchbar-input:[type="text"]:focus {
+  border: 1px solid;
+}
+
 
 .nav-right-container {
   justify-content: end;
