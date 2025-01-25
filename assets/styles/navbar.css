@@ -49,7 +49,11 @@ nav {
 
 .nav-right-container {
   justify-content: end;
+}
 
+.nav-create-button {
+  font-size: 1rem;
+  box-shadow: inset 1px 1px 1px #8d8d8d;  
 }
 
 .nav-ytlogo-container {
