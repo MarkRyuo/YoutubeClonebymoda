@@ -10,6 +10,7 @@
   padding: 7px;
   background-color: var(--nav-button-color);
   position: relative;
+  transition: baclground-color 0.15s;
 }
 
 .nav-tool-tip {
