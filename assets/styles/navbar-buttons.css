@@ -7,7 +7,7 @@
 
 .nav-button {
   border: none;
-  padding: px;
+  padding: 7px;
   background-color: var(--nav-button-color);
   position: relative;
 }
