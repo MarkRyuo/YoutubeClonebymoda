@@ -38,3 +38,8 @@
   border-radius: 0px 10px 10px 0px;
   box-shadow: inset 1px 1px 1px #8d8d8d;
 }
+
+.nav-search-button:hover {
+  background-color: var(--nav-button-hover-color);
+  border-radius: 0px;
+}
