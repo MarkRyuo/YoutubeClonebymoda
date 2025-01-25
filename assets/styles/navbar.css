@@ -24,5 +24,6 @@ nav {
 
 
 .nav-right-container {
-  justify-content: ;
+  justify-content: end;
+  
 }
