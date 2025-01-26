@@ -9,7 +9,7 @@
 
 .side-bar-container {
   display: grid;
-  grid-template-rows: 1fr 100px 100px 100px;
+  grid-template-rows: 100px 100px 100px 100px;
 
 }
 
@@ -17,6 +17,7 @@
   border: 1px solid;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .svg-side-bar-container {
