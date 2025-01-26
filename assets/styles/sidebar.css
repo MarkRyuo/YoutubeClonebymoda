@@ -9,7 +9,7 @@
 
 .side-bar-container {
   display: grid;
-  grid-template-col: 100px 100px 100px 100px;
+  grid-template-rows: 1fr 100px 100px 100px;
 
 }
 
