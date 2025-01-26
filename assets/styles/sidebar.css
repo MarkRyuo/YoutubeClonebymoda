@@ -8,11 +8,12 @@
 }
 
 .side-bar-container {
-  border: 1px solid;
   display: grid;
   grid-template-rows: 100px 100px 100px 100px;
 
 }
+
+.side-bar-
 
 .svg-side-bar-container {
   width: 30px;
