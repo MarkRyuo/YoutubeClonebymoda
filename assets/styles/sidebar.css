@@ -10,12 +10,14 @@
 
 .side-bar-container {
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 100px 100px 100px 100px;
 
 }
 
 .side-bar-content {
   border: 1px solid;
+  display: flex;
+  flex-direction: row;
 }
 
 .svg-side-bar-container {
