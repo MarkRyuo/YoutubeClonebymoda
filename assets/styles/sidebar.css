@@ -5,6 +5,7 @@
   width: 200px;
   position: absolute;
   top: 80px;
+  height: 700px;
 }
 
 .side-bar-container {
@@ -14,6 +15,6 @@
 
 }
 
-.svg-side-bar-container {
+/* .svg-side-bar-container {
   width: 30px;
-}
+} */
