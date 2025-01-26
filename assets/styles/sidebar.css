@@ -16,7 +16,7 @@
 .side-bar-content {
   border: 1px solid;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .svg-side-bar-container {
