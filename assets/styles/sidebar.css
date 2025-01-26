@@ -5,12 +5,12 @@
   width: 150px;
   position: absolute;
   top: 80px;
-  height: ;
+  height: 500px;
 }
 
 .side-bar-container {
   display: grid;
-  grid-template-rows: 60px 60px 60px 60px;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
 
 }
 
