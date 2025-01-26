@@ -8,5 +8,6 @@
 }
 
 .side-bar-container {
-  
+  border: 1px solid;
+  display: grid;
 }
