@@ -1,0 +1,25 @@
+
+
+.side-bar-main-container {
+  border: 1px solid;
+  position: absolute;
+  top: 80px;
+}
+
+.side-bar-container {
+  display: grid;
+  grid-template-rows: 100px 100px 100px 100px;
+
+}
+
+.side-bar-content {
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.svg-side-bar-container {
+  width: 30px;
+}
