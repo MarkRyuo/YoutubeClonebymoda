@@ -9,11 +9,13 @@
 
 .side-bar-container {
   display: grid;
-  grid-template-rows: 100px 100px 100px 100px;
+  grid-template-rows: 60px 60px 60px 60px;
 
 }
 
-.side-bar-
+.side-bar-content {
+  border: 1px solid;
+}
 
 .svg-side-bar-container {
   width: 30px;
