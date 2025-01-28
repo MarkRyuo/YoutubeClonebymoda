@@ -18,5 +18,7 @@ main {
 }
 
 .card-image-box img {
-  width: ;
+  width: 50px;
+  height: ;
+  border-radius: 50px;
 }
