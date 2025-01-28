@@ -36,6 +36,7 @@ main {
 
 .card-content {
   display: flex;
+  margin-right: ;
 }
 
 .card-image-box img {
