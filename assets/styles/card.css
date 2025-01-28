@@ -12,7 +12,8 @@ main {
 
 .card-container {
   display: grid;
-  grid-template-columns: 500px 500px 500px 500px;
+  grid-template-columns: repeat();
+  column-gap: 20px;
 }
 
 .card-thumbnail-container img {
