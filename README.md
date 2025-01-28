@@ -6,3 +6,4 @@ container:
 text-container:  
 left-section:
 right-section:
+middle-section: 
