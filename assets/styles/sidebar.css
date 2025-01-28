@@ -39,8 +39,3 @@
 .side-bar-content:hover {
   background-color: var(--side-bar-hover);
 }
-
-.side-bar-content:hover .svg-side-bar-container{
-  width: 50px;
-  transition: width 0.15s;
-}
