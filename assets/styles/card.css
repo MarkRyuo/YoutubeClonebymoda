@@ -16,7 +16,7 @@ main {
 }
 
 .card-thumbnail-container img {
-  width: 300px;
+  width: 100;
 }
 
 .card-content {
