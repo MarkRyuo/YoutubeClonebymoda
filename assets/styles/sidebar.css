@@ -33,7 +33,11 @@
 .side-bar-tool-tip {
   position: absolute;
   right: -20px;
-
+  background-color: #a7a7a7;
+  color: #fff;
+  padding: 3px;
+  font-size: 0.8rem;
+  opacity: 0;
 }
 
 
@@ -42,4 +46,9 @@
 .side-bar-content:hover {
   background-color: var(--side-bar-hover);
   border-radius: 10px;
+}
+
+
+.side-bar-content:hover .side-bar-tool-tip {
+  opacity: 1;
 }
