@@ -10,14 +10,13 @@
 }
 
 .side-bar-container {
+  borde
   display: grid;
   grid-template-rows: 80px 80px 80px 80px;
   row-gap: 2px;
-  padding: 5px;
 }
 
 .side-bar-content {
-  border: 1px solid;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -39,4 +38,5 @@
 
 .side-bar-content:hover {
   background-color: var(--side-bar-hover);
+  border-radius: 10px;
 }
