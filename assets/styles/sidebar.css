@@ -11,8 +11,8 @@
 
 .side-bar-container {
   display: grid;
-  grid-template-rows: 90px 90px 90px 90px;
-  row-gap: ;
+  grid-template-rows: 80px 80px 80px 80px;
+  row-gap: 2px;
   padding: 5px;
 }
 
