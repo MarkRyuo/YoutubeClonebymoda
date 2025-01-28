@@ -10,7 +10,7 @@ main {
 
 .card-container {
   display: grid;
-  grid-template-columns: 300px 100px 100px 100px;
+  grid-template-columns: 400px 100px 100px 100px;
 }
 
 .card-thumbnail-container img {
@@ -18,7 +18,7 @@ main {
 }
 
 .card-content {
-  
+  display: flex;
 }
 
 .card-image-box img {
