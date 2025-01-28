@@ -36,11 +36,15 @@ main {
 
 .card-content {
   display: flex;
-  margin-right: 10px;
+  margin-top: 10px;
 }
 
 .card-image-box img {
-  width: 70px;
-  height: 70px;
+  width: 50px;
+  height: 40px;
   border-radius: 50px;
+}
+
+.card-description {
+  margin-left: 10px;
 }
