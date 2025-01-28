@@ -1,25 +1,55 @@
 
+:root {
+  --side-bar-hover: #e7e7e7 ;
+}
 
 .side-bar-main-container {
-  border: 1px solid;
   position: absolute;
   top: 80px;
 }
 
 .side-bar-container {
   display: grid;
-  grid-template-rows: 100px 100px 100px 100px;
-
+  grid-template-rows: repeat(4, 80px);
 }
 
 .side-bar-content {
-  border: 1px solid;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 5px;
+  position: relative;
 }
 
 .svg-side-bar-container {
-  width: 30px;
+  width: 25px;
+}
+
+.side-bar-text {
+  font-size: 0.7rem
+}
+
+.side-bar-tool-tip {
+  position: absolute;
+  right: -10px;
+  background-color: #a7a7a7;
+  color: #fff;
+  padding: 3px;
+  font-size: 0.8rem;
+  opacity: 0;
+  transition: opacity 0.15s, background-color 0.15s, border-radius 0.15s; 
+}
+
+
+/*? Effects */
+
+.side-bar-content:hover {
+  background-color: var(--side-bar-hover);
+  border-radius: 10px;
+}
+
+
+.side-bar-content:hover .side-bar-tool-tip {
+  opacity: 1;
 }

@@ -31,6 +31,14 @@ nav {
   margin-right: 20px;
 }
 
+/* ? Left Container */
+/* .nav-left-container {
+  border: 1px solid;
+} */
+
+.nav-burger-button {
+  margin-left: 10px;
+}
 
 .nav-ytlogo-container {
   padding: 10px;
@@ -47,7 +55,7 @@ nav {
 
 
 
-
+/* ? Middle Container */
 .nav-middle-container {
   flex: 1;
   justify-content: center;
@@ -74,7 +82,7 @@ nav {
 }
 
 
-
+/* ? Right Container */
 .nav-right-container {
   justify-content: end;
 }
