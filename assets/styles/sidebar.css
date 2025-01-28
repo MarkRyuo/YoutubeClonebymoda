@@ -1,6 +1,6 @@
 
 :root {
-  --side-bar-hover: #c5c5c5 ;
+  --side-bar-hover: #e7e7e7 ;
 }
 
 .side-bar-main-container {
@@ -38,4 +38,9 @@
 
 .side-bar-content:hover {
   background-color: var(--side-bar-hover);
+}
+
+.side-bar-content:hover .svg-side-bar-container {
+  width: 100px;
+  transition: width 0.15s;
 }
