@@ -10,13 +10,13 @@
 }
 
 .side-bar-container {
-  borde
   display: grid;
   grid-template-rows: 80px 80px 80px 80px;
   row-gap: 2px;
 }
 
 .side-bar-content {
+  border: 1px solid;
   display: flex;
   flex-direction: column;
   justify-content: center;
