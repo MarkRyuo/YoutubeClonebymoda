@@ -31,12 +31,12 @@ nav {
   margin-right: 20px;
 }
 
-.nav-left-container {
+/* .nav-left-container {
   border: 1px solid;
-}
+} */
 
 .nav-burger-button {
-  margin
+  margin-left: 10px;
 }
 
 .nav-ytlogo-container {
