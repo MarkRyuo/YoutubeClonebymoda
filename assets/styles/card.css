@@ -37,8 +37,10 @@ main {
 
 .card-thumbnail-time {
   background-color: #000;
+  color: #fff;
   position: absolute;
-  top: 0;
+  bottom: ;
+  right: 0;
 }
 
 .card-content {
