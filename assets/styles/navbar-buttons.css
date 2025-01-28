@@ -45,7 +45,7 @@
   color: #fff;
   padding: 5px;
   border-radius: 50px;
-  font-size: 0.;
+  font-size: 0.7rem;
 }
 
 /** When the `.nav-button` element is hovered over, this rule sets the `opacity` property of the `.nav-tool-tip` element to `1`, making it visible. This provides a tooltip-like behavior for the navigation button. */
