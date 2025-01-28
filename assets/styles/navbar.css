@@ -31,13 +31,14 @@ nav {
   margin-right: 20px;
 }
 
-/* .nav-left-container {
+.nav-left-container {
   border: 1px solid;
-} */
-
-.svg-burger-container {
-  margin-left: 10px;
 }
+
+.nav-burger-button {
+  margin
+}
+
 .nav-ytlogo-container {
   padding: 10px;
   position: relative;
