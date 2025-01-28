@@ -19,7 +19,8 @@ main {
 }
 
 .card-thumbnail-container {
-  object-fit: 
+  object-fit: fiil;
+  object-position: center;
 }
 
 .card-thumbnail-container img {
