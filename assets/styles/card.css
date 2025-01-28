@@ -26,6 +26,8 @@ main {
 
 .card-thumbnail-container img {
   width: 100%;
+  object-fit: fill;
+    object-position: bottom;
 }
 
 .card-content {
