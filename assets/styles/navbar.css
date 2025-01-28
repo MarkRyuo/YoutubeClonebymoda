@@ -55,7 +55,7 @@ nav {
 
 
 
-/* ? */
+/* ? Middle Container */
 .nav-middle-container {
   flex: 1;
   justify-content: center;
@@ -82,7 +82,7 @@ nav {
 }
 
 
-
+/* ? Right Container */
 .nav-right-container {
   justify-content: end;
 }
