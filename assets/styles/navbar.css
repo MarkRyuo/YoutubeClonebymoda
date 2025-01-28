@@ -32,9 +32,12 @@ nav {
 }
 
 .nav-left-container {
-  border: 1;}
+  border: 1px solid;
+}
 
-
+.svg-burger-container {
+  margin-left: 10px;
+}
 .nav-ytlogo-container {
   padding: 10px;
   position: relative;
