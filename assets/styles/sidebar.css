@@ -6,13 +6,14 @@
 .side-bar-main-container {
   position: absolute;
   top: 80px;
-  height: 400px;
+  border: 1px solid;
 }
 
 .side-bar-container {
   display: grid;
-  grid-template-rows: 80px 80px 80px 80px;
-  row-gap: 2px;
+  grid-template-rows: repeat(4);
+  border: 1px solid;
+  padding: 10px;
 }
 
 .side-bar-content {
@@ -22,6 +23,8 @@
   justify-content: center;
   align-items: center;
   padding: 10px;
+  width: 30px;
+  height: 40px;
 }
 
 .svg-side-bar-container {
