@@ -6,14 +6,14 @@
 .side-bar-main-container {
   position: absolute;
   top: 80px;
-  border: 1px solid;
 }
 
 .side-bar-container {
   display: grid;
-  grid-template-rows: repeat(4);
+  grid-template-rows: repeat(4, 1fr);
   border: 1px solid;
   padding: 10px;
+  height: 300px;
 }
 
 .side-bar-content {
@@ -22,8 +22,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 10px;
-  width: 30px;
+  padding: 15px 10px;
   height: 40px;
 }
 
