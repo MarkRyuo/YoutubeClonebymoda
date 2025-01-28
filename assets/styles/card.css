@@ -13,6 +13,10 @@ main {
   grid-template-columns: 100px 100px 100px 100px;
 }
 
-.card-thumnail-container img {
+.card-thumbnail-container img {
   width: 300px;
+}
+
+.card-image-box img {
+  width: ;
 }
