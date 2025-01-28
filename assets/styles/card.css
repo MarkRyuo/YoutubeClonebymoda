@@ -18,6 +18,10 @@ main {
   row-gap: 20px;
 }
 
+.card-thumbnail-container {
+  object-fit: 
+}
+
 .card-thumbnail-container img {
   width: 100%;
 }
