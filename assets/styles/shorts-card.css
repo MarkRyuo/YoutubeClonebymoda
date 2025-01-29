@@ -27,6 +27,7 @@
   border: 1px solid red;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(1, 1fr);
   column-gap: 20px;
 }
 
@@ -35,12 +36,11 @@
 }
 
 .shorts-card-thumbnail {
-  position: relative;
+  width: 100%;
 }
 
 
 .shorts-card-thumbnail img {
-  width: 250px;
-  object-fit: fill;
+  width: 100%;
 }
 
