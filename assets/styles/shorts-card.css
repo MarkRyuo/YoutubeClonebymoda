@@ -27,14 +27,20 @@
   border: 1px solid red;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  column-gap: ;
+  column-gap: 20px;
 }
 
 .shorts-card {
   border: 1px solid;
 }
 
+.shorts-card-thumbnail {
+  position: relative;
+}
+
+
 .shorts-card-thumbnail img {
-  width: 100%;
+  width: 250px;
+  object-fit: fill;
 }
 
