@@ -50,12 +50,12 @@ main {
   margin-top: 10px;
   width: 100%;
   border: 1px solid;
-  height: 100px;
-  overflow: hidden;
 }
 
 .card-description-title {
   border: 1px solid;
+  height: 100px;
+  overflow: hidden;
   
 }
 
