@@ -48,6 +48,9 @@ main {
 .card-content {
   display: flex;
   margin-top: 10px;
+  width: 100%;
+  height: ;
+  border: 1px solid;
 }
 
 .card-image-box img {
