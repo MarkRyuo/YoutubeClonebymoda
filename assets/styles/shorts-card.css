@@ -26,6 +26,15 @@
 .shorts-container {
   border: 1px solid red;
   display: grid;
-  grid-template-rows: repeat(4);
+  grid-template-columns: repeat(5, 1fr);
+  column-gap: ;
+}
+
+.shorts-card {
+  border: 1px solid;
+}
+
+.shorts-card-thumbnail img {
+  width: 100%;
 }
 
