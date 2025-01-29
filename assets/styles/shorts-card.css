@@ -2,8 +2,8 @@
 
 /* ? shorts-nav */
 
-.shorts-card {
-  margin-top: 30px;
+.shorts-nav {
+  margin: 10px 0px;
   display: flex;
   border: 1px solid;
 }
