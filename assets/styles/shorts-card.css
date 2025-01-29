@@ -1,8 +1,15 @@
 
 
-/* ? Shorts-nav */
+/* ? shorts-nav */
 
+.short-nav {
+  display: flex;
+  border: 1px solid;
+}
 
+.shorts-nav-box {
+  width: 25px;
+}
 
 .short-container {
   border: 1px solid red;
