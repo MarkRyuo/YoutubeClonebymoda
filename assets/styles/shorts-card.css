@@ -2,13 +2,14 @@
 
 /* ? shorts-nav */
 
-.short-nav {
+.short-card {
+  margin-top: 30px;
   display: flex;
   border: 1px solid;
 }
 
 .shorts-nav-box {
-  width: 25px;
+  width: 30px;
 }
 
 .short-container {
