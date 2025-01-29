@@ -3,7 +3,7 @@
 /* ? shorts-nav */
 
 .shorts-nav {
-  margin: 10px 0px;
+  margin: 15px 0px;
   display: flex;
   border: 1px solid;
 }
@@ -11,6 +11,13 @@
 .shorts-nav-box {
   width: 30px;
 }
+
+.short-nav-title {
+  font-size: 2rem;
+}
+
+
+
 
 .short-container {
   border: 1px solid red;
