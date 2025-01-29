@@ -1,0 +1,49 @@
+
+
+/* ? shorts-nav */
+
+.shorts-nav {
+  margin: 15px 0px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.shorts-nav-box {
+  width: 30px;
+}
+
+.shorts-nav-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+
+}
+
+
+
+
+
+.shorts-container {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  column-gap: 20px;
+}
+
+/* .shorts-card {
+
+} */
+
+.shorts-card-thumbnail {
+  height: 500px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+
+.shorts-card-thumbnail img {
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
