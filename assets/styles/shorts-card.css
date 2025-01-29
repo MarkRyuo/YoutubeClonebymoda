@@ -12,8 +12,10 @@
   width: 30px;
 }
 
-.short-nav-title {
+.shorts-nav-title {
   font-size: 2rem;
+  font-weight: 600;
+  
 }
 
 
