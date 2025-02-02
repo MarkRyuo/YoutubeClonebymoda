@@ -139,11 +139,14 @@ nav {
 
   .nav-middle-container {
     border: 1px solid red;
+    width: 100%;
   }
 
   .nav-searchbar-input {
     display: none;
   }
 
-  .svg-mic-
+  .svg-mic-container {
+    display: none;
+  }
 }
