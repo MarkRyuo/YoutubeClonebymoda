@@ -120,7 +120,7 @@ nav {
 @media (max-width: 745px) {
   .nav-left-container {
     border: 1px solid red;
-    width: 100%;
+    width: auto;
   }
 
   .nav-left-container .nav-burger-button {
