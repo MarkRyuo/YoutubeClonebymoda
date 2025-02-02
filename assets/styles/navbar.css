@@ -122,7 +122,7 @@ nav {
 @media (max-width: 745px) {
 
   nav {
-    justify-content: ;
+    justify-content: space-evenly;
   }
 
   .nav-left-container {
@@ -144,7 +144,7 @@ nav {
   }
 
   .nav-searchbar-input {
-    display: none;
+    /* display: none; */
   }
 
   .svg-mic-container {
