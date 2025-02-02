@@ -43,6 +43,7 @@ nav {
 .nav-ytlogo-container {
   padding: 10px;
   position: relative;
+  margin-right: 15px;
 }
 
 .nav-location-indicator {
@@ -62,7 +63,8 @@ nav {
 }
 
 .nav-searchbar-input {
-  width: 400px;
+  width: 100%;
+  max-width: 400px;
   font-size: 1rem;
   padding: 10px;
   border: none;
@@ -111,4 +113,45 @@ nav {
 
 .svg-mic-container {
   width: 30px;
+}
+
+
+
+/* ? MEDIA QUERIES */
+
+@media (max-width: 745px) {
+
+  nav {
+    justify-content: space-evenly;
+  }
+
+  .nav-left-container {
+    width: auto;
+  }
+
+  .nav-left-container .nav-burger-button {
+    display: none;
+  }
+
+  .nav-left-container .nav-ytlogo-container {
+    width: 95px;
+  }
+
+  .nav-middle-container {
+    width: auto;
+    flex: none;
+  }
+
+  .svg-mic-container {
+    display: none;
+  }
+
+  .nav-right-container {
+    width: auto;
+  }
+
+  .nav-right-container .nav-create-button {
+    display: none
+    ;
+  }
 }

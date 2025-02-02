@@ -21,8 +21,6 @@
 
 
 
-
-
 .shorts-container {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
@@ -32,6 +30,19 @@
 /* .shorts-card {
 
 } */
+
+.shorts-card-description {
+  margin-bottom: 20px;
+}
+
+.shorts-card-views {
+  margin-top: 5px;
+}
+
+.shorts-card-description-title {
+  font-weight: 500;
+  font-size: 1.1rem;
+}
 
 .shorts-card-thumbnail {
   height: 500px;
