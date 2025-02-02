@@ -138,7 +138,6 @@ nav {
   }
 
   .nav-middle-container {
-    border: 1px solid red;
     width: auto;
     flex: none;
   }
@@ -148,11 +147,11 @@ nav {
   }
 
   .nav-right-container {
-    border: 1px solid red;
     width: auto;
   }
 
   .nav-right-container .nav-create-button {
-    display: nopne;
+    display: none
+    ;
   }
 }
