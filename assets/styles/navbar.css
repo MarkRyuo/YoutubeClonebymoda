@@ -43,6 +43,7 @@ nav {
 .nav-ytlogo-container {
   padding: 10px;
   position: relative;
+  margin
 }
 
 .nav-location-indicator {
@@ -129,6 +130,5 @@ nav {
 
   .nav-left-container .nav-ytlogo-container {
     width: 95px;
-    margin-right: 20px;
   }
 }
