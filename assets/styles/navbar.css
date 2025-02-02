@@ -63,7 +63,7 @@ nav {
 }
 
 .nav-searchbar-input {
-  width: 400px;
+  width: 100%;
   font-size: 1rem;
   padding: 10px;
   border: none;
@@ -132,6 +132,10 @@ nav {
   }
 
   .nav-middle-container {
-    
+    border: 1px solid red;
+  }
+
+  .nav-search-bar-container {
+    width: auto
   }
 }
