@@ -112,3 +112,17 @@ nav {
 .svg-mic-container {
   width: 30px;
 }
+
+
+
+/* ? MEDIA QUERIES */
+
+@media (max-width: 745px) {
+  .nav-left-container {
+    border: 1px solid red;
+  }
+
+  .nav-left-container .nav-burger-button {
+    display: none;
+  }
+}
