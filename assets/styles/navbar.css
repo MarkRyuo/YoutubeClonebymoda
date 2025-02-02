@@ -139,7 +139,7 @@ nav {
 
   .nav-middle-container {
     border: 1px solid red;
-    width: 100%;
+    width: auto;
   }
 
   .nav-searchbar-input {
