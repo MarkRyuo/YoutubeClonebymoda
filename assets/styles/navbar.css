@@ -120,7 +120,6 @@ nav {
 
 @media (max-width: 745px) {
   .nav-left-container {
-    border: 1px solid red;
     width: auto;
   }
 
