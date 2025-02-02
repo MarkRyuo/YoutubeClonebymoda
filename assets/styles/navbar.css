@@ -125,4 +125,8 @@ nav {
   .nav-left-container .nav-burger-button {
     display: none;
   }
+
+  .nav-left-container .nav-ytlogo-container {
+    width: 95px;
+  }
 }
