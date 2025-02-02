@@ -143,6 +143,9 @@ nav {
     flex: none;
   }
 
+  .nav-searchbar-input {
+    /* display: none; */
+  }
 
   .svg-mic-container {
     display: none;
