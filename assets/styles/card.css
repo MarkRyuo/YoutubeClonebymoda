@@ -85,9 +85,9 @@ main {
 
 /* ? Media Queries */
 
-@media (max-width: 745px) {
+@media (max-width: 1350px) {
   
   .card-container {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
 }
