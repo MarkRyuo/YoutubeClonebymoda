@@ -122,7 +122,7 @@ nav {
 @media (max-width: 745px) {
 
   nav {
-    justify-content: space-evenly;
+    justify-content: spa;
   }
 
   .nav-left-container {
@@ -140,7 +140,7 @@ nav {
   .nav-middle-container {
     border: 1px solid red;
     width: auto;
-    flex
+    flex: none;
   }
 
   .nav-searchbar-input {
