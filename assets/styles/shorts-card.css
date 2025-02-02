@@ -27,13 +27,16 @@
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   column-gap: 20px;
-  margin-bottom: 50px;
   border: 1px solid ;
 }
 
 /* .shorts-card {
 
 } */
+
+.shorts-card-description {
+  margin-bottom: 20px;
+}
 
 .shorts-card-thumbnail {
   height: 500px;
