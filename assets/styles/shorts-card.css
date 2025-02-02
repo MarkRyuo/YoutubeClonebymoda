@@ -41,7 +41,10 @@
   margin-top: 5px;
 }
 
-
+.shorts-card-description-title {
+  font-weight: 500;
+  font-size: ;
+}
 
 .shorts-card-thumbnail {
   height: 500px;
