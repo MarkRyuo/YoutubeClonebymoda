@@ -151,4 +151,8 @@ nav {
     border: 1px solid red;
     width: auto;
   }
+
+  .nav-right-container .nav-create-button {
+    display: nopne;
+  }
 }
