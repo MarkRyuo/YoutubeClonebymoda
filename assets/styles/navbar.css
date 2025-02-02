@@ -120,6 +120,11 @@ nav {
 /* ? MEDIA QUERIES */
 
 @media (max-width: 745px) {
+
+  nav {
+    justify-content: space-evenly;
+  }
+
   .nav-left-container {
     width: auto;
   }
@@ -139,4 +144,6 @@ nav {
   .nav-searchbar-input {
     display: none;
   }
+
+  .svg-mic-
 }
