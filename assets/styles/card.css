@@ -100,10 +100,11 @@ main {
   }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 600px) {
 
   main {
     margin: 0;
+    padding: 10px;
   }
 
   .card-container {
