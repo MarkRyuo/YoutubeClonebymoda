@@ -56,3 +56,9 @@
 
 
 /* ? Media Queries */
+
+@media (max-width: 600px) {
+
+  .side-bar-main-container {
+      
+}
