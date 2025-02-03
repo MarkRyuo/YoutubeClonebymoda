@@ -64,7 +64,7 @@
       border: 1px solid red;
       z-index: 1000;
       width: 100%;
-      bottom: 0;
+      top: ;
       height: 100px;
       background-color: #fff;
     }
