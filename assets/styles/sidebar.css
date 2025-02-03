@@ -60,7 +60,7 @@
 @media (max-width: 600px) {
 
   .side-bar-main-container {
-      position: absolute;
-      top: 80px;
+      position: fixed;
+    
     }
 }
