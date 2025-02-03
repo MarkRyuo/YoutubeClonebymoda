@@ -70,6 +70,6 @@
 
     .side-bar-container {
       display: flex;
-      justify-content: ;
+      justify-content: space-between;
     }
 }
