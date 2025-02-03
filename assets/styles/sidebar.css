@@ -53,3 +53,14 @@
 .side-bar-content:hover .side-bar-tool-tip {
   opacity: 1;
 }
+
+
+/* ? Media Queries */
+
+@media (max-width: 600px) {
+
+  .side-bar-main-container {
+      position: absolute;
+      top: 80px;
+    }
+}
