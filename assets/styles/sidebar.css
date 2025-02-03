@@ -61,7 +61,7 @@
 
   .side-bar-main-container {
       position: fixed;
-      bottom: -1[x];
+      bottom: -1px;
       border: 1px solid red;
       z-index: 1000;
       width: 100%;
